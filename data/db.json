@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "chekced": true,
+      "item": "Buy Banana",
+      "checked": true
+    },
+    {
+      "id": "21",
+      "checked": false,
+      "item": "Buy Apples"
+    }
+  ]
+}
