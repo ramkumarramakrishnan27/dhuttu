@@ -1,5 +1,5 @@
 import Header from "./Header";
-//// import Example from './Example';
+////.. import Example from './Example';
 import Footer from "./Footer";
 import Content from "./Content";
 import AddItem from "./AddItem";
